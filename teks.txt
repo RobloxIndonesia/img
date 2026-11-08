@@ -1,0 +1,513 @@
+~ $ unzip -l /storage/emulated/0/Download/packet-tracer-mobile-3-0.apk | grep -Ei '\.(css|js|qml|html|xml)$'    13868  2017-03-17 16:45   AndroidManifest.xml
+     3736  2017-03-17 16:45   assets/HtmlGui/app.html
+     4325  2017-03-17 16:45   assets/HtmlGui/app.js
+     3221  2017-03-17 16:45   assets/HtmlGui/app/addressing/IPv6Address.js
+    14878  2017-03-17 16:45   assets/HtmlGui/app/controller/Guidance.js
+     3655  2017-03-17 16:45   assets/HtmlGui/app/controller/Instructions.js
+      509  2017-03-17 16:45   assets/HtmlGui/app/model/AppletStateModel.js
+     1071  2017-03-17 16:45   assets/HtmlGui/app/model/Assessment.js
+      801  2017-03-17 16:45   assets/HtmlGui/app/model/CLIScriptModel.js
+     1498  2017-03-17 16:45   assets/HtmlGui/app/model/CableDescription.js
+      600  2017-03-17 16:45   assets/HtmlGui/app/model/ContextButtonModel.js
+      728  2017-03-17 16:45   assets/HtmlGui/app/model/DeviceContextualDescription.js
+     5506  2017-03-17 16:45   assets/HtmlGui/app/model/DeviceDescription.js
+     6909  2017-03-17 16:45   assets/HtmlGui/app/model/DevicePlateDescription.js
+      445  2017-03-17 16:45   assets/HtmlGui/app/model/FtpUserModel.js
+      432  2017-03-17 16:45   assets/HtmlGui/app/model/PduFilterModel.js
+      464  2017-03-17 16:45   assets/HtmlGui/app/model/PduListModel.js
+     2382  2017-03-17 16:45   assets/HtmlGui/app/model/PortDescription.js
+     1908  2017-03-17 16:45   assets/HtmlGui/app/model/network/ClusterModel.js
+     1112  2017-03-17 16:45   assets/HtmlGui/app/model/network/ClusteredItemModel.js
+     2513  2017-03-17 16:45   assets/HtmlGui/app/model/network/DeviceModel.js
+     3025  2017-03-17 16:45   assets/HtmlGui/app/model/network/LinkModel.js
+      948  2017-03-17 16:45   assets/HtmlGui/app/model/network/NoteModel.js
+      895  2017-03-17 16:45   assets/HtmlGui/app/model/network/ShapeModel.js
+      491  2017-03-17 16:45   assets/HtmlGui/app/model/syslogEntryModel.js
+      515  2017-03-17 16:45   assets/HtmlGui/app/store/AppletStateStore.js
+      579  2017-03-17 16:45   assets/HtmlGui/app/store/Assessments.js
+     1544  2017-03-17 16:45   assets/HtmlGui/app/store/CLIScriptManager.js
+     3051  2017-03-17 16:45   assets/HtmlGui/app/store/CablesStore.js
+      988  2017-03-17 16:45   assets/HtmlGui/app/store/CloudContextButtonStore.js
+     1688  2017-03-17 16:45   assets/HtmlGui/app/store/ClusterContextButtonStore.js
+     1113  2017-03-17 16:45   assets/HtmlGui/app/store/ClusterUpContextButtonStore.js
+     2088  2017-03-17 16:45   assets/HtmlGui/app/store/DeviceContextButtonStore.js
+    12021  2017-03-17 16:45   assets/HtmlGui/app/store/DeviceDescriptor.js
+    18207  2017-03-17 16:45   assets/HtmlGui/app/store/DevicePlateStore.js
+     1902  2017-03-17 16:45   assets/HtmlGui/app/store/EndDevicedContextButtonStore.js
+      499  2017-03-17 16:45   assets/HtmlGui/app/store/FtpUserStore.js
+      911  2017-03-17 16:45   assets/HtmlGui/app/store/HubContextButtonStore.js
+     1514  2017-03-17 16:45   assets/HtmlGui/app/store/InitialSettings.js
+      713  2017-03-17 16:45   assets/HtmlGui/app/store/Layer1DeviceTableStore.js
+     1355  2017-03-17 16:45   assets/HtmlGui/app/store/MainWorkspaceButtonStore.js
+      717  2017-03-17 16:45   assets/HtmlGui/app/store/MultiselectContextButtonStore.js
+      770  2017-03-17 16:45   assets/HtmlGui/app/store/NoteContextButtonStore.js
+      764  2017-03-17 16:45   assets/HtmlGui/app/store/PCDeviceTableStore.js
+      507  2017-03-17 16:45   assets/HtmlGui/app/store/PduFilterStore.js
+      499  2017-03-17 16:45   assets/HtmlGui/app/store/PduListStore.js
+     7482  2017-03-17 16:45   assets/HtmlGui/app/store/PortsStore.js
+     1506  2017-03-17 16:45   assets/HtmlGui/app/store/RouterContextButtonStore.js
+     1036  2017-03-17 16:45   assets/HtmlGui/app/store/RouterDeviceTableStore.js
+      745  2017-03-17 16:45   assets/HtmlGui/app/store/SecurityContextButtonStore.js
+      831  2017-03-17 16:45   assets/HtmlGui/app/store/ServerDeviceTableStore.js
+      959  2017-03-17 16:45   assets/HtmlGui/app/store/ShapeContextButtonStore.js
+     1299  2017-03-17 16:45   assets/HtmlGui/app/store/SwitchContextButtonStore.js
+      890  2017-03-17 16:45   assets/HtmlGui/app/store/SwitchDeviceTableStore.js
+     1260  2017-03-17 16:45   assets/HtmlGui/app/store/WirelessContextButtonStore.js
+     1048  2017-03-17 16:45   assets/HtmlGui/app/store/WorkspaceDrawShapeContextButtonStore.js
+     1212  2017-03-17 16:45   assets/HtmlGui/app/store/WorkspaceMultiselectContextButtonStore.js
+     1078  2017-03-17 16:45   assets/HtmlGui/app/store/WorkspaceShapeLayerContextButtonStore.js
+      758  2017-03-17 16:45   assets/HtmlGui/app/store/WorkspaceShapeModeContextButtonStore.js
+     1998  2017-03-17 16:45   assets/HtmlGui/app/store/network/ClusterStore.js
+     1912  2017-03-17 16:45   assets/HtmlGui/app/store/network/DeviceStore.js
+     3636  2017-03-17 16:45   assets/HtmlGui/app/store/network/LinkStore.js
+    14740  2017-03-17 16:45   assets/HtmlGui/app/store/network/NetworkContents.js
+     1490  2017-03-17 16:45   assets/HtmlGui/app/store/network/NoteStore.js
+     1547  2017-03-17 16:45   assets/HtmlGui/app/store/network/ShapeStore.js
+      505  2017-03-17 16:45   assets/HtmlGui/app/store/syslogStore.js
+     1967  2017-03-17 16:45   assets/HtmlGui/app/util/AsyncHelper.js
+     2196  2017-03-17 16:45   assets/HtmlGui/app/util/BlockTouch.js
+     3093  2017-03-17 16:45   assets/HtmlGui/app/util/CiscoAnalytics.js
+     2336  2017-03-17 16:45   assets/HtmlGui/app/util/Logger.js
+     1182  2017-03-17 16:45   assets/HtmlGui/app/util/NetSpaceRESTClient.js
+      601  2017-03-17 16:45   assets/HtmlGui/app/util/PaintMonitor.js
+     1869  2017-03-17 16:45   assets/HtmlGui/app/util/Settings.js
+      926  2017-03-17 16:45   assets/HtmlGui/app/util/SizeMonitor.js
+     3406  2017-03-17 16:45   assets/HtmlGui/app/util/animation/AnimationBase.js
+     4031  2017-03-17 16:45   assets/HtmlGui/app/view/ButtonCfgSpecialKeys.js
+     1153  2017-03-17 16:45   assets/HtmlGui/app/view/ButtonPanel.js
+     7620  2017-03-17 16:45   assets/HtmlGui/app/view/CliPanel-with-autoscroll-list.js
+     6343  2017-03-17 16:45   assets/HtmlGui/app/view/ConfigView.js
+     1423  2017-03-17 16:45   assets/HtmlGui/app/view/GuidanceView.js
+    10429  2017-03-17 16:45   assets/HtmlGui/app/view/HtmlKeyboard.js
+     5501  2017-03-17 16:45   assets/HtmlGui/app/view/InterfaceLocks.js
+     1153  2017-03-17 16:45   assets/HtmlGui/app/view/Main.js
+     9407  2017-03-17 16:45   assets/HtmlGui/app/view/MainView.js
+      548  2017-03-17 16:45   assets/HtmlGui/app/view/Override_Ext_field_Select.js
+      508  2017-03-17 16:45   assets/HtmlGui/app/view/Override_Ext_field_Text.js
+      537  2017-03-17 16:45   assets/HtmlGui/app/view/Splash.js
+     4855  2017-03-17 16:45   assets/HtmlGui/app/view/UserProfileDialog.js
+     3056  2017-03-17 16:45   assets/HtmlGui/app/view/about/AboutDialog.js
+     1847  2017-03-17 16:45   assets/HtmlGui/app/view/about/AboutDialog_UI.js
+     6723  2017-03-17 16:45   assets/HtmlGui/app/view/actionBar/ActionBar.js
+     4640  2017-03-17 16:45   assets/HtmlGui/app/view/actionBar/ActionBar_UI.js
+     6223  2017-03-17 16:45   assets/HtmlGui/app/view/actionBar/ActionbarOverflowMenu.js
+     1419  2017-03-17 16:45   assets/HtmlGui/app/view/actionBar/ActionbarOverflowMenu_UI.js
+      919  2017-03-17 16:45   assets/HtmlGui/app/view/actionBar/BaseActionbarController.js
+     6398  2017-03-17 16:45   assets/HtmlGui/app/view/actionBar/DeviceController.js
+     1528  2017-03-17 16:45   assets/HtmlGui/app/view/actionBar/DeviceNameChange_UI.js
+      945  2017-03-17 16:45   assets/HtmlGui/app/view/actionBar/DeviceSelector_UI.js
+     1067  2017-03-17 16:45   assets/HtmlGui/app/view/actionBar/PkaController.js
+     6470  2017-03-17 16:45   assets/HtmlGui/app/view/actionBar/SimulationController.js
+     2096  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/CLIScriptManagerEdit_UI.js
+     1521  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/CLIScriptManagerList_UI.js
+    10901  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/CLIScriptManagerUI.js
+    26516  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/CommandLineDialog.js
+     2198  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/ConfigDialogAbstract.js
+    29117  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/DesktopDialog.js
+     1701  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/DeviceAttributesDialog.js
+     1119  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/DeviceAttributesDialog_UI.js
+    15333  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/AAAServiceApplet.js
+     8097  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/AccessPointWirelessPortApplet.js
+     2030  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/AccessPointWirelessPortApplet_UI.js
+    24322  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/AppSelectorApplet.js
+     7659  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/BackboneApplet.js
+     1046  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/BackboneApplet_UI.js
+     4313  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/COCellTowerServiceApplet.js
+     2608  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/COCellTowerServiceApplet_UI.js
+     5433  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/CODhcpServiceApplet.js
+     1467  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/CODhcpServiceApplet_UI.js
+     5081  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/CODhcpv6ServiceApplet.js
+     5300  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/CODhcpv6ServiceApplet_UI.js
+     2004  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/CellTowerIntfApplet.js
+     1173  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/CellTowerIntfApplet_UI.js
+     5617  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/CloudDLCIConfigurationApplet.js
+     7890  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/CloudFrameRelayMappingApplet.js
+     7918  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/CloudWanProviderApplet.js
+     1391  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/CommandPromptApplet.js
+     4389  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/DesktopAppletAbstract.js
+    10562  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/DhcpServiceApplet.js
+      944  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/Dhcpv6LocalPoolApplet_UI.js
+     2319  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/Dhcpv6PoolConfig_UI.js
+    25217  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/Dhcpv6ServiceApplet.js
+     6515  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/Dhcpv6ServiceApplet_UI.js
+    20063  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/DnsServiceApplet.js
+     8363  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/EmailServiceApplet.js
+    15252  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/FirewallServiceApplet.js
+    11018  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/FtpServiceApplet.js
+    10585  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/HttpServiceApplet.js
+    13412  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/IPv4Applet.js
+    16985  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/IPv6Applet.js
+    14448  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/Ipv6FirewallServiceApplet.js
+    20057  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/LinksysBasicSetupApplet.js
+     5681  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/LinksysBasicSetupApplet_UI.js
+     5510  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/LinksysBasicWirelessSettingApplet.js
+     8927  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/LinksysStatusApplet.js
+    14050  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/LinksysWirelessSecuritySettingApplet.js
+    19433  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/MailClientApplet.js
+     5880  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/NtpServiceApplet.js
+     9178  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/PapChapServiceApplet.js
+     3538  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/PppoeDialerApplet.js
+     6134  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/SnifferApplet.js
+     2073  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/SnifferApplet_UI.js
+     2459  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/SyslogApplet.js
+     2315  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/SyslogApplet_UI.js
+     6676  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/TerminalSettingsApplet.js
+     5147  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/TextEditorApplet.js
+     3365  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/TftpServiceApplet.js
+     6653  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/VpnServiceApplet.js
+    10464  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/WebBrowserApplet.js
+     1214  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/WebBrowserApplet_UI.js
+     9628  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/WirelessApplet.js
+     3877  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/WirelessRouterAdminMgntApplet.js
+     4471  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/WirelessRouterDhcpReservation_UI.js
+    14163  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/WirelessRouterMacFilter.js
+     5481  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/WirelessRouterPortForwardingApplet.js
+    15147  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/applets/WirelessRouterPortForwardingApplet_UI.js
+     1412  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/commandHistory/CommandResultNotepad.js
+     2729  2017-03-17 16:45   assets/HtmlGui/app/view/configDialogs/commandHistory/CommandResultSelections.js
+    16093  2017-03-17 16:45   assets/HtmlGui/app/view/connection/ConnectionView.js
+     6095  2017-03-17 16:45   assets/HtmlGui/app/view/connection/WSInputModeConnectionView.js
+     1007  2017-03-17 16:45   assets/HtmlGui/app/view/connection/items/WSSceneItemBack.js                        3223  2017-03-17 16:45   assets/HtmlGui/app/view/connection/items/WSSceneItemCable.js                       1040  2017-03-17 16:45   assets/HtmlGui/app/view/connection/items/WSSceneItemDeviceName.js                  3194  2017-03-17 16:45   assets/HtmlGui/app/view/connection/items/WSSceneItemPort.js                       19813  2017-03-17 16:45   assets/HtmlGui/app/view/contextualMenus/BaseButtonCircle.js                        4897  2017-03-17 16:45   assets/HtmlGui/app/view/contextualMenus/BaseLayeredButtonCircle.js                 4211  2017-03-17 16:45   assets/HtmlGui/app/view/contextualMenus/CableButtonCircle.js                        637  2017-03-17 16:45   assets/HtmlGui/app/view/contextualMenus/CloudButtonCircle.js                       6702  2017-03-17 16:45   assets/HtmlGui/app/view/contextualMenus/ClusterButtonCircle.js                     1424  2017-03-17 16:45   assets/HtmlGui/app/view/contextualMenus/ContextualMenuLayer.js
+     1854  2017-03-17 16:45   assets/HtmlGui/app/view/contextualMenus/ContextualMenuManager.js
+     7166  2017-03-17 16:45   assets/HtmlGui/app/view/contextualMenus/DeviceButtonCircle.js
+     3102  2017-03-17 16:45   assets/HtmlGui/app/view/contextualMenus/DeviceTableButtonCircle.js
+      647  2017-03-17 16:45   assets/HtmlGui/app/view/contextualMenus/EndDevicesButtonCircle.js
+      633  2017-03-17 16:45   assets/HtmlGui/app/view/contextualMenus/HubButtonCircle.js
+      590  2017-03-17 16:45   assets/HtmlGui/app/view/contextualMenus/MultiselectButtonCircle.js
+     2041  2017-03-17 16:45   assets/HtmlGui/app/view/contextualMenus/NoteButtonCircle.js
+      639  2017-03-17 16:45   assets/HtmlGui/app/view/contextualMenus/RouterButtonCircle.js
+      643  2017-03-17 16:45   assets/HtmlGui/app/view/contextualMenus/SecurityButtonCircle.js
+     1743  2017-03-17 16:45   assets/HtmlGui/app/view/contextualMenus/ShapeButtonCircle.js
+      713  2017-03-17 16:45   assets/HtmlGui/app/view/contextualMenus/ShapeLayerButtonCircle.js
+      639  2017-03-17 16:45   assets/HtmlGui/app/view/contextualMenus/SwitchButtonCircle.js
+      643  2017-03-17 16:45   assets/HtmlGui/app/view/contextualMenus/WirelessButtonCircle.js
+     7397  2017-03-17 16:45   assets/HtmlGui/app/view/contextualMenus/WorkspaceCircleMenu.js
+     1727  2017-03-17 16:45   assets/HtmlGui/app/view/contextualMenus/WorkspaceDrawShapeCircle.js
+     1528  2017-03-17 16:45   assets/HtmlGui/app/view/contextualMenus/WorkspaceMultiselectCircleMenu.js
+     1309  2017-03-17 16:45   assets/HtmlGui/app/view/contextualMenus/WorkspaceShapeModeButtonCircle.js
+      857  2017-03-17 16:45   assets/HtmlGui/app/view/editHistory/DeviceStoreChanged.js
+      517  2017-03-17 16:45   assets/HtmlGui/app/view/editHistory/EditNodeAbstract.js
+     2541  2017-03-17 16:45   assets/HtmlGui/app/view/editHistory/EditNodeWithUndoFile.js
+      494  2017-03-17 16:45   assets/HtmlGui/app/view/editHistory/EditOpAbstract.js
+      668  2017-03-17 16:45   assets/HtmlGui/app/view/editHistory/EditOpRemoveClusters.js
+     1479  2017-03-17 16:45   assets/HtmlGui/app/view/editHistory/EditOpRemoveDevices.js                         1789  2017-03-17 16:45   assets/HtmlGui/app/view/editHistory/EditOpRemoveLinks.js
+      611  2017-03-17 16:45   assets/HtmlGui/app/view/editHistory/EditOpRemoveNotes.js
+      617  2017-03-17 16:45   assets/HtmlGui/app/view/editHistory/EditOpRemoveShapes.js
+     1762  2017-03-17 16:45   assets/HtmlGui/app/view/editHistory/EditQueue.js                                    919  2017-03-17 16:45   assets/HtmlGui/app/view/editHistory/EditQueueWithUndoFiles.js                       879  2017-03-17 16:45   assets/HtmlGui/app/view/fileHandling/FileOpenDialog.js                             1659  2017-03-17 16:45   assets/HtmlGui/app/view/fileHandling/FileOpenDialog_UI.js
+    29752  2017-03-17 16:45   assets/HtmlGui/app/view/fileHandling/FileOptionsMenu.js                            1035  2017-03-17 16:45   assets/HtmlGui/app/view/fileHandling/FileOptionsMenu_UI.js
+      643  2017-03-17 16:45   assets/HtmlGui/app/view/fileHandling/FileSaveAsDialog.js
+     1795  2017-03-17 16:45   assets/HtmlGui/app/view/fileHandling/FileSaveAsDialog_UI.js
+      720  2017-03-17 16:45   assets/HtmlGui/app/view/fileHandling/FileSaveDialog.js
+     1157  2017-03-17 16:45   assets/HtmlGui/app/view/fileHandling/FileSaveDialog_UI.js
+     1123  2017-03-17 16:45   assets/HtmlGui/app/view/fileHandling/GetFilesWait.js
+     1023  2017-03-17 16:45   assets/HtmlGui/app/view/fileHandling/GetFilesWait_UI.js
+     1441  2017-03-17 16:45   assets/HtmlGui/app/view/fileHandling/LoadingFileWait_UI.js
+     1152  2017-03-17 16:45   assets/HtmlGui/app/view/fileHandling/TextEditorFileOpenDialog.js                   1632  2017-03-17 16:45   assets/HtmlGui/app/view/fileHandling/TextEditorFileOpenDialog_UI.js
+     1780  2017-03-17 16:45   assets/HtmlGui/app/view/fileHandling/TextEditorSaveDialog.js                       3508  2017-03-17 16:45   assets/HtmlGui/app/view/inspectorTables/DeviceArpTable.js                          3266  2017-03-17 16:45   assets/HtmlGui/app/view/inspectorTables/DeviceDnsTable.js                          4367  2017-03-17 16:45   assets/HtmlGui/app/view/inspectorTables/DeviceIpv6RoutingTable.js
+     3753  2017-03-17 16:45   assets/HtmlGui/app/view/inspectorTables/DeviceMacTable.js                          4276  2017-03-17 16:45   assets/HtmlGui/app/view/inspectorTables/DeviceNatTable.js                          1924  2017-03-17 16:45   assets/HtmlGui/app/view/inspectorTables/DevicePortTable.js
+     2690  2017-03-17 16:45   assets/HtmlGui/app/view/inspectorTables/DeviceQoSTable.js
+     4389  2017-03-17 16:45   assets/HtmlGui/app/view/inspectorTables/DeviceRoutingTable.js
+     1908  2017-03-17 16:45   assets/HtmlGui/app/view/inspectorTables/DeviceTable.js
+     2714  2017-03-17 16:45   assets/HtmlGui/app/view/instructions/AssessmentItems.js
+     2508  2017-03-17 16:45   assets/HtmlGui/app/view/instructions/CopyPaste.js
+    13135  2017-03-17 16:45   assets/HtmlGui/app/view/instructions/InstructionsDialog.js
+      599  2017-03-17 16:45   assets/HtmlGui/app/view/instructions/InstructionsDialogPage_UI.js                   679  2017-03-17 16:45   assets/HtmlGui/app/view/instructions/InstructionsDialogPages_UI.js                 2337  2017-03-17 16:45   assets/HtmlGui/app/view/instructions/InstructionsDialogResultsAssessmentItems_UI.js
+     1611  2017-03-17 16:45   assets/HtmlGui/app/view/instructions/InstructionsDialogResultsConnectivityTests_UI.js
+      840  2017-03-17 16:45   assets/HtmlGui/app/view/instructions/InstructionsDialogResultsFeedback_UI.js
+     2345  2017-03-17 16:45   assets/HtmlGui/app/view/instructions/InstructionsDialogResultsScoring_UI.js        1662  2017-03-17 16:45   assets/HtmlGui/app/view/instructions/InstructionsDialogResults_UI.js
+     2726  2017-03-17 16:45   assets/HtmlGui/app/view/instructions/InstructionsDialog_UI.js
+      549  2017-03-17 16:45   assets/HtmlGui/app/view/instructions/LockedDragCarousel.js                        20299  2017-03-17 16:45   assets/HtmlGui/app/view/instructions/TouchTreeGrid.js                              9019  2017-03-17 16:45   assets/HtmlGui/app/view/options/ProjectOptionsDialog.js                            3053  2017-03-17 16:45   assets/HtmlGui/app/view/options/ProjectOptionsDialog_UI.js                         4616  2017-03-17 16:45   assets/HtmlGui/app/view/options/ShapeOptions.js                                    2425  2017-03-17 16:45   assets/HtmlGui/app/view/options/ShapeOptions_UI.js
+     6881  2017-03-17 16:45   assets/HtmlGui/app/view/pdu/ComplexPDU.js                                          3073  2017-03-17 16:45   assets/HtmlGui/app/view/pdu/ComplexPDU_UI.js
+     5857  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/PduInfoDetailsData.js
+      788  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/PduInfoSignalDataView_UI.js
+     1827  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/PduInfoTabBar_UI.js
+      656  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/PduInfoTabIn_UI.js
+     3517  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/PduInfoTabOsi_UI.js                                 662  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/PduInfoTabOut_UI.js
+    12421  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/PduInfoView.js                                      580  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/PduInfoView_UI.js
+     8900  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/PduList.js
+      880  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Aaa__CTacacsPacket.js
+     1136  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Arp__CArpPacket.js
+      634  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Bgp__CBgpAttribute.js
+      709  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Bgp__CBgpNotification.js                       782  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Bgp__CBgpOpen.js
+      692  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Bgp__CBgpPacket.js                             659  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Bgp__CBgpPrefix.js
+      615  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Bgp__CBgpUpdate.js                             879  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Cdp__CCdpFrame.js
+      652  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Dhcp__CDhcpOption.js
+      675  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Dhcp__CDhcpOption82.js
+      832  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Dhcp__CDhcpOptionClientIdentifier.js
+      759  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Dhcp__CDhcpOptionDomainName.js
+      774  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Dhcp__CDhcpOptionDomainNameServer.js
+     1290  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Dhcp__CDhcpPacket.js
+      894  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Dhcp__CDhcpSubOptionCircuitId.js               815  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Dhcp__CDhcpSubOptionRemoteId.js
+      772  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Dhcpv6__CDhcpv6OptionClientServerId.js
+      680  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Dhcpv6__CDhcpv6OptionDNS.js
+      721  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Dhcpv6__CDhcpv6OptionDomainSearch.js
+      754  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Dhcpv6__CDhcpv6OptionElapsedTime.js
+      867  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Dhcpv6__CDhcpv6OptionIAAddress.js
+      774  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Dhcpv6__CDhcpv6OptionIANA.js
+      914  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Dhcpv6__CDhcpv6OptionIAPrefix.js
+      689  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Dhcpv6__CDhcpv6OptionRequest.js
+      802  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Dhcpv6__CDhcpv6OptionStatusCode.js
+      727  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Dhcpv6__CDhcpv6Packet.js
+     1008  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Dns__CDnsMessage.js
+      736  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Dns__CDnsResourceRecord.js
+      758  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Dns__CDnsRrA.js                                758  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Dns__CDnsRrCname.js
+      760  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Dns__CDnsRrNs.js
+      979  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Dns__CDnsRrSoa.js
+      966  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Dtp__CDtpFrame.js
+     1058  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Eigrp__CEigrpInternal.js
+      867  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Eigrp__CEigrpPacket.js
+      838  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Eigrp__CEigrpParameters.js
+      785  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Eigrp__CEigrpSoftwareVersion.js
+      875  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Eigrpv6__CEigrpv6Packet.js
+     1626  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/EtherChannel__CLacpFrame.js
+     1650  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/EtherChannel__CPagpFrame.js
+      918  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ethernet__CEthernetIIHeader.js
+      959  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ethernet__CIEEE802Dot3Header.js
+      974  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ethernet__CIEEE802Dot3zHeader.js
+      674  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ethernet__CLLCHeader.js
+      652  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ethernet__CSnapLLCHeader.js                    776  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/FrameRelay__CFrameRelayHeader.js               588  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ftp__CFtpDataPacket.js                         641  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ftp__CFtpPacket.js                             633  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Gre__CGreHeader.js                             799  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Hdlc__CHdlcFrame.js                            995  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Hsrp__CHsrpMessage.js                          594  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Http__CHttpHeader.js                           781  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Icmp__CIcmpMessage.js                          790  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Icmpv6__CEchoMessage.js                        768  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Icmpv6__CPacketTooBigMessage.js               1155  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ip__CIpHeader.js                               853  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ipv6__CIpv6FragmentExtensionHeader.js          966  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ipv6__CIpv6Header.js                           745  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ndv6__CLinkLayerOption.js                      713  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ndv6__CMTUOption.js                            950  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ndv6__CPrefixOption.js                         790  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ndv6__CRouterSolicitationMessage.js            645  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Netflow__CNFFlow.js                            859  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Netflow__CNFHeaderv9.js                        748  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Netflow__CNFTemplate.js                       1260  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ntp__CNtpHeader.js                            1009  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ospf__COspfDDPacket.js                        1258  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ospf__COspfHelloPacket.js                      917  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ospf__COspfLSAHeader.js                        890  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ospf__COspfLSAPacket.js                        919  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ospf__COspfLSAckPacket.js                      702  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ospf__COspfLSR.js                              889  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ospf__COspfLSRPacket.js                        925  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ospf__COspfLSUPacket.js                       1009  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ospf__COspfNetworkLSA.js                       950  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ospf__COspfRouterLSA.js                        729  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ospf__COspfRouterLink.js                      1239  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ospf__COspfv3DDPacket.js                      1238  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ospf__COspfv3HelloPacket.js                   1442  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ospfv6__COspfv6AsExternalLSA.js               1168  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ospfv6__COspfv6InterAreaPrefixLSA.js          1118  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ospfv6__COspfv6InterAreaRouterLSA.js          1201  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ospfv6__COspfv6IntraAreaPrefixLSA.js           888  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ospfv6__COspfv6LSAHeader.js                   1017  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ospfv6__COspfv6LinkLSA.js                      925  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ospfv6__COspfv6LinkStateAckPacket.js          1047  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ospfv6__COspfv6LinkStateRequestPacket.js       967  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ospfv6__COspfv6LinkStateUpdatePacket.js        970  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ospfv6__COspfv6NetworkLSA.js                   884  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ospfv6__COspfv6Packet.js                       757  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ospfv6__COspfv6Prefix.js
+      865  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ospfv6__COspfv6RouterInterface.js
+      895  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ospfv6__COspfv6RouterLSA.js
+     1425  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ospfv6__COspfv6Type7LSA.js
+      654  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/PDU_UNIMPLEMENTED.js
+      606  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/PduDataRegistry.js                             584  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Pop3__CPop3Header.js                           806  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ppp__CPppFrame.js                              859  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Pppoe__CPppoeHeader.js                         867  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Rip__CRipPacket.js                             842  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Rip__CRipRoutePacket.js                        692  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ripv6__CRipv6Packet.js                         768  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ripv6__CRipv6RoutePacket.js                    594  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Smtp__CSmtpHeader.js                           815  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Snmp__CSnmpHeader.js                           587  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Ssh__CSshPacket.js                            1479  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Stp__CRstpFrame.js                            1392  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Stp__CStpFrame.js                             1025  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Switching__CDot1qHeader.js                     737  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Syslog__CSyslogEntry.js                       1049  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Tcp__CTcpHeader.js                             602  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Telnet__CTelnetPacket.js                       589  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Tftp__CTftpHeader.js                           767  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Udp__CUdpHeader.js
+      731  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Voip__CRtpMessage.js
+      628  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Voip__CSccpMessage.js
+      583  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Voip__CVoiceData.js
+      812  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Vpn__CAhHeader.js
+      782  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Vpn__CEspHeader.js
+      823  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Vpn__CIdPayload.js
+      715  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Vpn__CIkePayload.js                            893  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Vpn__CIkePdu.js                                981  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Vpn__CNotificationPayload.js
+      944  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Vpn__CProposalPayload.js                       837  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Vpn__CSaPayload.js                            1118  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Vpn__CTransformPayload.js
+      826  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Vtp__CVtpRequestFrame.js
+      889  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Vtp__CVtpSubsetFrame.js
+     1029  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Vtp__CVtpSummaryFrame.js                       924  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Vtp__CVtpVlanInfo.js                           960  2017-03-17 16:45   assets/HtmlGui/app/view/pduInfo/data/Wireless__CWirelessHeader.js
+    27204  2017-03-17 16:45   assets/HtmlGui/app/view/physical/ModulesData.js                                     741  2017-03-17 16:45   assets/HtmlGui/app/view/physical/PhysicalSceneView.js
+    23065  2017-03-17 16:45   assets/HtmlGui/app/view/physical/PhysicalView.js
+     4065  2017-03-17 16:45   assets/HtmlGui/app/view/physical/WSInputModePhysicalView.js
+      885  2017-03-17 16:45   assets/HtmlGui/app/view/physical/items/WSSceneItemDevicePlate.js
+      953  2017-03-17 16:45   assets/HtmlGui/app/view/physical/items/WSSceneItemModule.js                        1257  2017-03-17 16:45   assets/HtmlGui/app/view/physical/items/WSSceneItemPowerButton.js                    947  2017-03-17 16:45   assets/HtmlGui/app/view/physical/items/WSSceneItemResetButton.js                    948  2017-03-17 16:45   assets/HtmlGui/app/view/physical/items/WSSceneItemRommonButton.js
+     1015  2017-03-17 16:45   assets/HtmlGui/app/view/physical/items/WSSceneItemSlot.js
+     7055  2017-03-17 16:45   assets/HtmlGui/app/view/scenario/ScenarioBox.js
+     3989  2017-03-17 16:45   assets/HtmlGui/app/view/scenario/ScenarioBox_UI.js
+     1555  2017-03-17 16:45   assets/HtmlGui/app/view/startup/StartupOptions.js
+     1058  2017-03-17 16:45   assets/HtmlGui/app/view/startup/StartupOptions_UI.js
+     1618  2017-03-17 16:45   assets/HtmlGui/app/view/statics/PortHandling.js
+     1142  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/LicensePage.js
+     1664  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/Message_UI.js
+     2012  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/MultiCreate.js                                   1527  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/MultiCreate_UI.js
+     2611  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/Notepad_UI.js
+     1879  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/WSInputModeAbstract.js                           1873  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/WSInputModeAutoConnect.js                        1511  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/WSInputModeComplexPDU.js
+     2369  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/WSInputModeCreatePDU.js
+     2544  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/WSInputModeDefault.js
+     2452  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/WSInputModeDeviceConnection.js
+     2207  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/WSInputModeDrawEllipse.js                        2110  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/WSInputModeDrawLine.js                           2242  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/WSInputModeDrawRect.js
+     2312  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/WSInputModeDrawShape.js                          1378  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/WSInputModeEcho.js                              14192  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/WSInputModeGeneric.js
+     1713  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/WSInputModeIconOnFirstSelection.js               6257  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/WSInputModeMultiselect.js                        1083  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/WSInputModePlaceDevice.js                        1689  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/WSInputModePlaceDeviceStoreListener.js            696  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/WSInputModeSelect.js                            20216  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/Workspace.js                                     1235  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/WorkspaceMenuManager.js
+     2712  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/items/PortLinkBundle.js                          1299  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/items/PortLinkBundles.js
+     4917  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/items/WSSceneItem.js
+      747  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/items/WSSceneItemBaseShape.js
+     2361  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/items/WSSceneItemCluster.js                      3873  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/items/WSSceneItemDevice.js
+    12880  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/items/WSSceneItemDevicePortLink.js
+     1454  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/items/WSSceneItemEllipse.js
+     2139  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/items/WSSceneItemLine.js
+     2192  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/items/WSSceneItemNote.js
+     1434  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/items/WSSceneItemPolygon.js
+     1387  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/items/WSSceneItemRect.js
+      784  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/items/WSSceneItemSelectionRect.js
+     1058  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/items/WSSceneItemUpCluster.js
+     8685  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/items/WSSceneView.js
+     1850  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/items/WorkspaceItem.js                           1368  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/items/WorkspaceItemNamed.js                     10990  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/items/packets/FrameAnimation.js
+    10045  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/items/packets/FrameAnimationsController.js       1589  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/items/packets/StraightMotionAnimation.js
+     1746  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/items/packets/WSSceneItemMovingStraight.js
+     2031  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/items/packets/WSSceneItemPacket.js
+     1031  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/items/packets/WSSceneItemPacketMoving.js
+     3464  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/items/packets/WSSceneItemPacketStatus.js          794  2017-03-17 16:45   assets/HtmlGui/app/view/workspace/items/packets/WSSceneItemSignal.js
+      810  2017-03-17 16:45   assets/HtmlGui/appDummy.html
+     1750  2017-03-17 16:45   assets/HtmlGui/appDummy.js
+      347  2017-03-17 16:45   assets/HtmlGui/bootstrap/bootstrap.js
+      125  2017-03-17 16:45   assets/HtmlGui/configOptions.xml
+    11200  2017-03-17 16:45   assets/HtmlGui/resources/css/TouchTreeGrid.css
+     6538  2017-03-17 16:45   assets/HtmlGui/resources/css/actionbar_css.css
+   381854  2017-03-17 16:45   assets/HtmlGui/resources/css/app.css
+     3867  2017-03-17 16:45   assets/HtmlGui/resources/css/basic_contextual_button.css
+     2068  2017-03-17 16:45   assets/HtmlGui/resources/css/cables_contextual.css
+     1149  2017-03-17 16:45   assets/HtmlGui/resources/css/cloud_contextual.css
+     1629  2017-03-17 16:45   assets/HtmlGui/resources/css/cluster_contextual.css
+     7650  2017-03-17 16:45   assets/HtmlGui/resources/css/commandline.css
+      294  2017-03-17 16:45   assets/HtmlGui/resources/css/custom_devices_contextual.css
+    11901  2017-03-17 16:45   assets/HtmlGui/resources/css/desktop.css
+     4769  2017-03-17 16:45   assets/HtmlGui/resources/css/device_configuration_contextual.css
+     7039  2017-03-17 16:45   assets/HtmlGui/resources/css/device_table_css.css                                  4250  2017-03-17 16:45   assets/HtmlGui/resources/css/end_devices_contextual.css
+      263  2017-03-17 16:45   assets/HtmlGui/resources/css/file_options_contextual.css
+      255  2017-03-17 16:45   assets/HtmlGui/resources/css/guidance.css
+     1037  2017-03-17 16:45   assets/HtmlGui/resources/css/hub_contextual.css
+      154  2017-03-17 16:45   assets/HtmlGui/resources/css/instructions.css
+      230  2017-03-17 16:45   assets/HtmlGui/resources/css/main.css
+     2670  2017-03-17 16:45   assets/HtmlGui/resources/css/multiselect_contextual.css
+      269  2017-03-17 16:45   assets/HtmlGui/resources/css/multiuser_contextual.css
+      252  2017-03-17 16:45   assets/HtmlGui/resources/css/notes_contextual.css                                  5832  2017-03-17 16:45   assets/HtmlGui/resources/css/pdu_info_view.css
+     2448  2017-03-17 16:45   assets/HtmlGui/resources/css/ports.css
+     3175  2017-03-17 16:45   assets/HtmlGui/resources/css/router_contextual.css                                 1174  2017-03-17 16:45   assets/HtmlGui/resources/css/scenario.css
+      485  2017-03-17 16:45   assets/HtmlGui/resources/css/security_contextual.css
+      293  2017-03-17 16:45   assets/HtmlGui/resources/css/shape_handling_contextual.css
+     2363  2017-03-17 16:45   assets/HtmlGui/resources/css/shapes_contextual.css
+      475  2017-03-17 16:45   assets/HtmlGui/resources/css/sim_contextual.css
+     1744  2017-03-17 16:45   assets/HtmlGui/resources/css/startup_css.css                                       2713  2017-03-17 16:45   assets/HtmlGui/resources/css/switch_contextual.css                                18973  2017-03-17 16:45   assets/HtmlGui/resources/css/treegriddemo.css
+     2398  2017-03-17 16:45   assets/HtmlGui/resources/css/wireless_contextual.css                              50127  2017-03-17 16:45   assets/HtmlGui/resources/html/help.html                                           14271  2017-03-17 16:45   assets/HtmlGui/resources/html/license.html
+   178509  2017-03-17 16:45   assets/HtmlGui/resources/html/openSourceLicenses-android.html
+    86182  2017-03-17 16:45   assets/HtmlGui/resources/html/openSourceLicenses-ios.html
+      168  2017-03-17 16:45   assets/HtmlGui/resources/html/privacy.html
+    10890  2017-03-17 16:45   assets/HtmlGui/scripts/Utils.js
+     7298  2017-03-17 16:45   assets/HtmlGui/scripts/ipc-orig.js
+    17971  2017-03-17 16:45   assets/HtmlGui/scripts/ipc.js
+      600  2017-03-17 16:45   assets/HtmlGui/scripts/ipcHelpers.js
+     6216  2017-03-17 16:45   assets/HtmlGui/scripts/stacktrace.js
+   238074  2017-03-17 16:45   assets/HtmlGui/touch/resources/css/base.css
+   255939  2017-03-17 16:45   assets/HtmlGui/touch/resources/css/sencha-touch.css
+   948997  2017-03-17 16:45   assets/HtmlGui/touch/sencha-touch-all.js
+   131578  2017-03-17 16:45   assets/HtmlGui/touch/sencha-touch.js
+   388539  2017-03-17 16:45   assets/art/html/cam/admin_app.html
+   129724  2017-03-17 16:45   assets/art/html/cam/admin_app_body.html
+   263290  2017-03-17 16:45   assets/art/html/cam/admin_app_header.html
+   105029  2017-03-17 16:45   assets/art/html/cam/login.html
+     2396  2017-03-17 16:45   assets/art/html/linksys/AccessRestrictions.html
+     2724  2017-03-17 16:45   assets/art/html/linksys/AdminDiagnostics.html
+     3093  2017-03-17 16:45   assets/art/html/linksys/AdminManagement.html                                       3080  2017-03-17 16:45   assets/art/html/linksys/AdvWirelessSecurity.html                                   3050  2017-03-17 16:45   assets/art/html/linksys/AppAndGaming.html
+     2520  2017-03-17 16:45   assets/art/html/linksys/BasicFirewall.html                                         2881  2017-03-17 16:45   assets/art/html/linksys/BasicSetup.html                                            3047  2017-03-17 16:45   assets/art/html/linksys/BasicWirelessSettings.html
+     3060  2017-03-17 16:45   assets/art/html/linksys/DMZ.html                                                   3086  2017-03-17 16:45   assets/art/html/linksys/FactoryDefaults.html                                       3095  2017-03-17 16:45   assets/art/html/linksys/FirmwareUpgrade.html
+     2810  2017-03-17 16:45   assets/art/html/linksys/LocalNetworkStatus.html                                    2412  2017-03-17 16:45   assets/art/html/linksys/MACFilter.html
+     2852  2017-03-17 16:45   assets/art/html/linksys/RouterStatus.html
+     3085  2017-03-17 16:45   assets/art/html/linksys/WirelessMACFilter.html
+     2847  2017-03-17 16:45   assets/art/html/linksys/WirelessNetworkStatus.html
+     3085  2017-03-17 16:45   assets/art/html/linksys/WirelessSecurity.html                                      7848  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/javascript/!UserJsApp.js
+     7390  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/javascript/Basics.js
+     2315  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/javascript/Email.js
+     5788  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/javascript/Environment.js
+    10127  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/javascript/File.js                             6316  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/javascript/GPIO.js
+     7309  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/javascript/HTTP.js
+     1891  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/javascript/IoEClient.js
+      645  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/javascript/JSON.js
+      986  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/javascript/Networking.js                       9511  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/javascript/Physical.js
+     3033  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/javascript/RealHTTP.js
+     3906  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/javascript/RealTCP.js
+     2777  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/javascript/RealUDP.js
+    11539  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/javascript/TCP.js                              2277  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/javascript/UDP.js
+    10181  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/javascript/USB.js
+   142029  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/javascript/acorn_interpreter.js
+      252  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/libs/!util.js
+     6103  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/libs/Arbiter.js
+   336529  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/libs/jsparser.js
+     8420  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/libs/syntaxCheck.js
+       44  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/main.js
+     9846  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/python/UserPyApp.js
+      582  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/python/skulpt/skulpt-mods.js
+   356423  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/python/skulpt/skulpt-stdlib.js
+   560700  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/python/skulpt/skulpt.min.js                    2590  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/python/skulpt/src/builtin/email.js
+     4905  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/python/skulpt/src/builtin/environment.js       4521  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/python/skulpt/src/builtin/file.js
+     4838  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/python/skulpt/src/builtin/gpio.js              5504  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/python/skulpt/src/builtin/http.js              2062  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/python/skulpt/src/builtin/ioeclient.js          667  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/python/skulpt/src/builtin/json.js
+      597  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/python/skulpt/src/builtin/networking.js         986  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/python/skulpt/src/builtin/options.js           2107  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/python/skulpt/src/builtin/os/__init__.js
+     1311  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/python/skulpt/src/builtin/os/path.js           4967  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/python/skulpt/src/builtin/physical.js          1829  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/python/skulpt/src/builtin/realhttp.js
+     2599  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/python/skulpt/src/builtin/realtcp.js           2086  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/python/skulpt/src/builtin/realudp.js           8799  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/python/skulpt/src/builtin/tcp.js
+      999  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/python/skulpt/src/builtin/time.js              2052  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/python/skulpt/src/builtin/udp.js               6999  2017-03-17 16:45   assets/extensions/PTINTERNAL/engine/python/skulpt/src/builtin/usb.js             340786  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/ace/ace.js
+    34207  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/ace/ext-language_tools.js
+     9917  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/ace/ext-searchbox.js
+    17181  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/ace/mode-c_cpp.js
+    22797  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/ace/mode-javascript.js                     4643  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/ace/mode-python.js                            0  1980-12-31 16:00   assets/extensions/PTINTERNAL/interfaces/ace/mode-text.js
+     2663  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/ace/snippets/c_cpp.js                      3642  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/ace/snippets/javascript.js                 3672  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/ace/snippets/python.js
+      131  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/ace/snippets/text.js                     148816  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/ace/worker-javascript.js
+      802  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/blockly/api/Basics.js
+     3879  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/blockly/api/Email.js
+    10378  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/blockly/api/Environment.js
+    10089  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/blockly/api/File.js
+     4550  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/blockly/api/GPIO.js                        7124  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/blockly/api/HTTP.js
+     1044  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/blockly/api/Networking.js
+    11759  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/blockly/api/Physical.js
+     8035  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/blockly/api/TCP.js
+     3619  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/blockly/api/UDP.js
+     9608  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/blockly/api/USB.js
+   566140  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/blockly/blockly_compressed.js             29013  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/blockly/blockly_en.js
+    41475  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/blockly/blockly_javascript_compressed.js
+    60138  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/blockly/blocks_compressed.js
+    95957  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/jquery/jquery-1.11.3.min.js                 407  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/jquery/jquery-pretty-split-pane.css        2216  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/jquery/jquery-split-pane.css
+    11255  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/jquery/jquery-split-pane.js               27134  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/jquery/jquery-ui-1.10.4.custom.min.css
+   228539  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/jquery/jquery-ui-1.10.4.custom.min.js
+    23001  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/jquery/jquery-ui.css                     240427  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/jquery/jquery-ui.min.js
+    96533  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/jquery/jquery.ajax_fix.js
+    82974  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/jquery/jquery.fancytree-all.min.js
+     8858  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/jquery/jquery.fancytree.filter.js
+    10808  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/jquery/jquery.knob.no_escape.min.js
+    21850  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/jquery/ui.fancytree.min.css
+     1972  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/scripts/Class.js                           1064  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/scripts/UnitConverters.js                  2588  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/scripts/environment/engine.js             12644  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/scripts/environment/highcharts-custom-events.js
+     8772  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/scripts/environment/highcharts-draggable-points.js
+    29496  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/scripts/environment/jquery-ui.min.css
+   240422  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/scripts/environment/jquery-ui.min.js
+     2986  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/scripts/environment/jquery.plugin.min.js
+       97  1980-12-31 16:00   assets/extensions/PTINTERNAL/interfaces/scripts/environment/jquery.timeentry.css                                                        16293  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/scripts/environment/jquery.timeentry.min.js                                                       933  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/scripts/environment/style.css
+    57376  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/scripts/environment/ui.js
+   199922  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/scripts/highcharts-custom.js
+    22396  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/scripts/ioeServerConditions.js
+    12149  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/scripts/ioeServerHome.js
+    40558  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/scripts/programming.js                      413  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/templates/javascript/analog.js
+      165  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/templates/javascript/blink.js
+      374  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/templates/javascript/digital.js
+      486  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/templates/javascript/email.js
+      955  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/templates/javascript/file.js
+      248  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/templates/javascript/httpClient.js
+      737  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/templates/javascript/httpServer.js          153  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/templates/javascript/ptmataMCU.js           741  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/templates/javascript/ptmataSBC.js
+      252  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/templates/javascript/realHttpClient.js
+      604  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/templates/javascript/realTcpClient.js
+      448  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/templates/javascript/realUdp.js
+      560  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/templates/javascript/tcpClient.js
+      789  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/templates/javascript/tcpServer.js           444  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/templates/javascript/udp.js                 238  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/templates/javascript/usb.js                3269  2017-03-17 16:45   assets/extensions/PTINTERNAL/interfaces/templates/templates.js
+    15101  2017-03-17 16:45   assets/extensions/resource/DataStoreEditor.html                                    1181  2017-03-17 16:45   assets/extensions/resource/DataStoreEditor.js                                     16232  2017-03-17 16:45   assets/extensions/resource/ResourceManager.js
+      263  2017-03-17 16:45   assets/extensions/resource/main.js
+     1178  2017-03-17 16:45   assets/tip/0.html
+     1180  2017-03-17 16:45   assets/tip/1.html
+     1142  2017-03-17 16:45   assets/tip/10.html
+     1111  2017-03-17 16:45   assets/tip/11.html
+     1083  2017-03-17 16:45   assets/tip/12.html
+     1156  2017-03-17 16:45   assets/tip/13.html
+     1108  2017-03-17 16:45   assets/tip/2.html
+     1133  2017-03-17 16:45   assets/tip/3.html
+     1140  2017-03-17 16:45   assets/tip/4.html
+     1137  2017-03-17 16:45   assets/tip/5.html
+     1065  2017-03-17 16:45   assets/tip/6.html
+     1053  2017-03-17 16:45   assets/tip/7.html
+     1137  2017-03-17 16:45   assets/tip/8.html
+     1197  2017-03-17 16:45   assets/tip/9.html
+      504  2017-03-17 16:45   assets/tip/scripts.js
+      620  2017-03-17 16:45   res/drawable-hdpi-v4/boxandroidlibv2_box_background_header.xml
+     1120  2017-03-17 16:45   res/drawable-hdpi-v4/boxandroidlibv2_btn_bar_selector.xml
+     1120  2017-03-17 16:45   res/drawable-hdpi-v4/boxandroidlibv2_btn_cta_states.xml
+      580  2017-03-17 16:45   res/drawable-hdpi-v4/boxandroidlibv2_btn_toggle_round_blue_states.xml
+      496  2017-03-17 16:45   res/drawable-hdpi-v4/boxandroidlibv2_list_item_divider.xml
+      544  2017-03-17 16:45   res/drawable-hdpi-v4/boxandroidlibv2_list_item_selector.xml
+      684  2017-03-17 16:45   res/drawable-hdpi-v4/boxandroidlibv2_list_selected_state.xml
+      412  2017-03-17 16:45   res/drawable-hdpi-v4/boxandroidlibv2_modal_divider.xml                             1120  2017-03-17 16:45   res/drawable-hdpi-v4/boxandroidlibv2_navigation_selector.xml
+      536  2017-03-17 16:45   res/drawable-hdpi-v4/boxandroidlibv2_progress_spinner.xml                           572  2017-03-17 16:45   res/drawable-hdpi-v4/boxandroidlibv2_rectangle_light_blue.xml
+      572  2017-03-17 16:45   res/drawable-hdpi-v4/boxandroidlibv2_rectangle_light_grey.xml                       880  2017-03-17 16:45   res/drawable/com_facebook_button_blue.xml                                           560  2017-03-17 16:45   res/drawable/com_facebook_button_check.xml                                          900  2017-03-17 16:45   res/drawable/com_facebook_button_like.xml
+      900  2017-03-17 16:45   res/drawable/com_facebook_button_like_selected.xml                                  700  2017-03-17 16:45   res/drawable/com_facebook_loginbutton_silver.xml                                   1136  2017-03-17 16:45   res/drawable/com_facebook_picker_item_background.xml                               1208  2017-03-17 16:45   res/drawable/com_facebook_picker_list_selector.xml
+      508  2017-03-17 16:45   res/drawable/com_facebook_picker_list_selector_background_transition.xml
+      520  2017-03-17 16:45   res/drawable/com_facebook_picker_top_button.xml
+      520  2017-03-17 16:45   res/drawable/com_facebook_top_background.xml                                        840  2017-03-17 16:45   res/drawable/com_facebook_top_button.xml
+      600  2017-03-17 16:45   res/drawable/com_facebook_usersettingsfragment_background_gradient.xml
+      576  2017-03-17 16:45   res/drawable/keyboard_key_feedback.xml                                              552  2017-03-17 16:45   res/layout/boxandroidlibv2_activity_oauth.xml
+     1552  2017-03-17 16:45   res/layout/boxandroidlibv2_alert_dialog_text_entry.xml                             1836  2017-03-17 16:45   res/layout/boxandroidlibv2_box_folder_list_item.xml                                2332  2017-03-17 16:45   res/layout/boxandroidlibv2_box_list_item.xml                                        516  2017-03-17 16:45   res/layout/boxandroidlibv2_custom_title.xml                                        1228  2017-03-17 16:45   res/layout/boxandroidlibv2_layout_file_picker.xml                                  1676  2017-03-17 16:45   res/layout/boxandroidlibv2_layout_folder_picker.xml
+      796  2017-03-17 16:45   res/layout/boxandroidlibv2_layout_picker.xml
+      684  2017-03-17 16:45   res/layout/boxandroidlibv2_navigation_dropdown_item_folder.xml                      972  2017-03-17 16:45   res/layout/boxandroidlibv2_navigation_item_folder.xml                              1240  2017-03-17 16:45   res/layout/com_facebook_friendpickerfragment.xml                                    668  2017-03-17 16:45   res/layout/com_facebook_login_activity_layout.xml
+      744  2017-03-17 16:45   res/layout/com_facebook_picker_activity_circle_row.xml
+      476  2017-03-17 16:45   res/layout/com_facebook_picker_checkbox.xml                                         440  2017-03-17 16:45   res/layout/com_facebook_picker_image.xml                                           1224  2017-03-17 16:45   res/layout/com_facebook_picker_list_row.xml                                         848  2017-03-17 16:45   res/layout/com_facebook_picker_list_section_header.xml                              676  2017-03-17 16:45   res/layout/com_facebook_picker_search_box.xml                                      1760  2017-03-17 16:45   res/layout/com_facebook_picker_title_bar.xml                                        508  2017-03-17 16:45   res/layout/com_facebook_picker_title_bar_stub.xml                                  1396  2017-03-17 16:45   res/layout/com_facebook_placepickerfragment.xml
+     2216  2017-03-17 16:45   res/layout/com_facebook_placepickerfragment_list_row.xml                           1196  2017-03-17 16:45   res/layout/com_facebook_search_bar_layout.xml
+     1844  2017-03-17 16:45   res/layout/com_facebook_tooltip_bubble.xml                                         1640  2017-03-17 16:45   res/layout/com_facebook_usersettingsfragment.xml
+      524  2017-03-17 16:45   res/layout/keypreviewlayout.xml                                                    2736  2017-03-17 16:45   res/layout/main.xml
+      328  2017-03-17 16:45   res/layout/splash.xml
+     1100  2017-03-17 16:45   res/xml/app_tracker.xml      9264  2017-03-17 16:45   res/xml/data1.xml             152  2017-03-17 16:45   res/xml/datat.xml
+     3296  2017-03-17 16:45   res/xml/hex.xml
+     1440  2017-03-17 16:45   res/xml/jshybugger_license.xml                                                     7904  2017-03-17 16:45   res/xml/lower.xml
+     5688  2017-03-17 16:45   res/xml/lowernonum.xml
+     2736  2017-03-17 16:45   res/xml/number.xml           6244  2017-03-17 16:45   res/xml/numbersym.xml
+      316  2017-03-17 16:45   res/xml/popup.xml            7904  2017-03-17 16:45   res/xml/upper.xml
+     5688  2017-03-17 16:45   res/xml/uppernonum.xml       1826  2017-03-17 16:45   log4j.xml
+    61520  2017-03-17 16:45   jshybugger.min.js
+~ $
